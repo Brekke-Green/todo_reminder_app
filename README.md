@@ -3,10 +3,13 @@ Todo list app with timed reminders
 
 # MVP:
 
-- [ ] User Auth (Phase 1)
+## Phase 1
+- [ ] User Auth 
 
-- [ ] Todo Feature (Phase 1)
+- [ ] Todo Feature 
 
-- [ ] Reminder/Reoccuring Feature (Phase 2)
+## Phase 2
+- [ ] Reminder/Reoccuring Feature
 
-- [ ] Predictive Model (Phase 3)
+## Phase 3
+- [ ] Predictive Model
