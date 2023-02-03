@@ -1,5 +1,5 @@
 # todo_reminder_app - NAME(TBD)
-Todo list app with timed reminders 
+Todo list app with timed reminders built with Flutter
 
 # MVP:
 
